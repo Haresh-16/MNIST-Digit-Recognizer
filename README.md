@@ -36,3 +36,5 @@ resizing images
 ## Acknowledgments
 
 * [Kaggle](https://www.kaggle.com/c/digit-recognizer/data)
+
+Changes made on 30/10/21
